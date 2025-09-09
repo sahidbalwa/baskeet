@@ -1,0 +1,108 @@
+[
+    {
+        "slug": "men",
+        "name": "Men",
+        "children": [
+            {
+                "slug": "men-clothing",
+                "name": "Clothing"
+            },
+            {
+                "slug": "men-shoes",
+                "name": "Shoes"
+            },
+            {
+                "slug": "men-watches",
+                "name": "Watches"
+            },
+            {
+                "slug": "men-grooming",
+                "name": "Grooming"
+            }
+        ]
+    },
+    {
+        "slug": "women",
+        "name": "Women",
+        "children": [
+            {
+                "slug": "women-clothing",
+                "name": "Clothing"
+            },
+            {
+                "slug": "women-shoes",
+                "name": "Shoes"
+            },
+            {
+                "slug": "women-jewelry",
+                "name": "Jewelry"
+            },
+            {
+                "slug": "women-beauty",
+                "name": "Beauty"
+            }
+        ]
+    },
+    {
+        "slug": "electronics",
+        "name": "Electronics",
+        "children": [
+            {
+                "slug": "mobiles",
+                "name": "Mobiles"
+            },
+            {
+                "slug": "laptops",
+                "name": "Laptops"
+            },
+            {
+                "slug": "cameras",
+                "name": "Cameras"
+            },
+            {
+                "slug": "audio",
+                "name": "Headphones & Audio"
+            },
+            {
+                "slug": "wearables",
+                "name": "Wearables"
+            }
+        ]
+    },
+    {
+        "slug": "home",
+        "name": "Home & Kitchen",
+        "children": [
+            {
+                "slug": "furniture",
+                "name": "Furniture"
+            },
+            {
+                "slug": "kitchen",
+                "name": "Kitchen"
+            },
+            {
+                "slug": "home-decor",
+                "name": "Home Decor"
+            }
+        ]
+    },
+    {
+        "slug": "sports",
+        "name": "Sports & Outdoors",
+        "children": [
+            {
+                "slug": "fitness",
+                "name": "Fitness"
+            },
+            {
+                "slug": "outdoor",
+                "name": "Outdoor"
+            },
+            {
+                "slug": "team-sports",
+                "name": "Team Sports"
+            }
+        ]
+    }
+]
