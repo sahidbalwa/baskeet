@@ -1,5 +1,5 @@
 import ProductGrid from '@/components/ProductGrid';
-import categories from '@/data/categories.json';
+// import categories from '@/data/categories.json';
 import products from '@/data/products.json';
 
 export default function HomePage(){
