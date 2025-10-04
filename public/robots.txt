@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.baskeet.store
+
+# Sitemaps
+Sitemap: https://www.baskeet.store/sitemap.xml
