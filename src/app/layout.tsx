@@ -4,6 +4,8 @@ import Footer from '@/components/Footer';
 import { AuthProvider } from '@/lib/auth';
 import { ReactNode } from 'react';
 
+
+
 export const metadata = {
   title: "Baskeet Shop - Best Online Store",
   description: "Baskeet Shop offers premium products with top deals. Discover electronics, fashion, and more.",
@@ -40,6 +42,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
     <html lang="en">
       <head>
         {/* ✅ Fallback to ensure favicon + title always show */}
+        <meta name="google-site-verification" content="286tHfveZb-ZUxyTYL2DtovGE5U7l-SE-OVWMbTLdU0" />
         <link rel="icon" href="/logo.svg" />
         <title>Baskeet Shop - Best Online Store</title>
       </head>
