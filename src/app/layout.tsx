@@ -12,6 +12,9 @@ export const metadata = {
   keywords: ["Baskeet", "Baskeet Shop", "Online Store", "E-commerce"],
   icons: {
     icon: "/logo.svg", // ✅ favicon / logo placed in public/logo.png
+    shortcut: "/logo.svg",
+    apple: "/logo.svg",
+    
   },
   openGraph: {
     title: "Baskeet Shop",
