@@ -46,7 +46,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
       <head>
         {/* ✅ Fallback to ensure favicon + title always show */}
         <meta name="google-site-verification" content="286tHfveZb-ZUxyTYL2DtovGE5U7l-SE-OVWMbTLdU0" />
-        <link rel="icon" href="/logo.svg" />
+        <link rel="icon" href="/logo.png" />
         <title>Baskeet Shop - Best Online Store</title>
       </head>
       <body>
