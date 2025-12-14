@@ -3,7 +3,8 @@ import React from 'react'
 const page = () => {
   return (
     <div>
-      Coming Soon...
+      Coming Soon... 
+      We Adding Products As Soon As Possible
     </div>
   )
 }
