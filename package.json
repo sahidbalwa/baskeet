@@ -10,8 +10,13 @@
     "postbuild": "next-sitemap"
   },
   "dependencies": {
+<<<<<<< HEAD
     "lucide-react": "^0.556.0",
     "next": "16.0.10",
+=======
+    "lucide-react": "^0.542.0",
+    "next": "15.5.9",
+>>>>>>> c931986007acb8ade2576bddedac254cf4eba7c3
     "next-sitemap": "^4.2.3",
     "postcss": "^8.5.6",
     "react": "19.2.1",
